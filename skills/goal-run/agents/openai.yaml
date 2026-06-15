@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Run"
+  short_description: "Define, activate, delegate, and run a durable goal"
+  default_prompt: "Use $goal-run to run this objective end-to-end: first use $goal-define to produce the complete parent goal packet and `Goal Define Handoff For Goal Ultra`, then use $goal-ultra to import that handoff, create or activate the Codex persistent /goal when supported, and establish verifier plus completion proof, then use $swarm for authorized in-chat subagents or explicitly requested separate chats only when useful. Do not stop at planning if the user asked to execute; run the work through verification and completion proof."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Ultra"
+  short_description: "Design durable goals with proof and verifiers"
+  default_prompt: "Use $goal-ultra to import the latest `Goal Define Handoff For Goal Ultra` block when present, then produce the complete durable goal packet with every field filled, verifiers, completion proof, and, when agent work is authorized or imported from Goal Define, at least two independent child agents when safe. Every delegated agent prompt must require `Create a dedicated goal for this subtask first` before work begins."

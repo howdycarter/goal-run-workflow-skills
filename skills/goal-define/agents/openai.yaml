@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Define"
+  short_description: "Turn fuzzy build prompts into executable goals"
+  default_prompt: "Use $goal-define to produce the complete Goal Define packet with every field filled, a top-level `Goal Define Handoff For Goal Ultra` block that can be imported later, and, when agents are explicitly requested or a build-template/parallel-agent path applies, a parallel execution plan with at least two independent agents when safe. Every delegated agent prompt must require `Create a dedicated goal for this subtask first` before work begins."
