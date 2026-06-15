@@ -53,6 +53,19 @@ An Excalidraw-style overview diagram is included at:
 docs/goal-run-workflow-excalidraw.png
 ```
 
+A short launch teaser is included at:
+
+```text
+docs/goal-run-workflow-teaser.mp4
+```
+
+Launch copy and positioning notes are included in:
+
+```text
+launch/x-thread.md
+launch/viral-launch-plan.md
+```
+
 ## Creator
 
 This workflow was created by [Howdy Carter](https://howdycarter.com) to make durable Codex goals easier to define, activate, delegate, and verify.
