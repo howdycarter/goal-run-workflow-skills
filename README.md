@@ -59,11 +59,20 @@ A short launch teaser is included at:
 docs/goal-run-workflow-teaser.mp4
 ```
 
+Social-ready variants are included at:
+
+```text
+docs/goal-run-workflow-square-15s.mp4
+docs/goal-run-workflow-vertical-15s.mp4
+docs/goal-run-workflow-square-card.png
+```
+
 Launch copy and positioning notes are included in:
 
 ```text
 launch/x-thread.md
 launch/viral-launch-plan.md
+launch/platform-copy-pack.md
 ```
 
 ## Creator
